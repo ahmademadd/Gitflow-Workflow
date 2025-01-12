@@ -1,2 +1,3 @@
+Release 0.1 ready
 Added feature 1 by collaborator 1
 Added feature 1 by collaborator 2
