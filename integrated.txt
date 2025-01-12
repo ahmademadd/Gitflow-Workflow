@@ -1,0 +1,2 @@
+Added feature 1 by collaborator 1
+Added feature 1 by collaborator 2
