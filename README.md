@@ -1,6 +1,7 @@
-For more detailed information, you can refer to the(["Gitflow Workflow_Report.pdf](https://github.com/ahmademadd/Gitflow-Workflow/blob/main/Gitflow%20Workflow%20Report.pdf)).
-
 # Gitflow Workflow Simulation Project
+
+## Documentation
+For more detailed information, you can refer to the ["Gitflow Workflow_Report.pdf](https://github.com/ahmademadd/Gitflow-Workflow/blob/main/Gitflow%20Workflow%20Report.pdf).
 
 ## Project Description and Overview
 
