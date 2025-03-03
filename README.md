@@ -1,7 +1,9 @@
 # Gitflow Workflow Simulation Project
 
-## Documentation
-For more detailed information, you can refer to the ["Gitflow Workflow_Report.pdf](https://github.com/ahmademadd/Gitflow-Workflow/blob/main/Gitflow%20Workflow%20Report.pdf).
+_By Ahmad Emad_  
+- **YouTube Video**: [Watch Here](https://www.youtube.com/watch?v=X6tHLg9VGgk)  
+- **Documentation**: [Click Here](Gitflow%20Workflow%20Report.pdf).
+- **Email**: [ahmademad995.ae@gmail.com](mailto:ahmademad995.ae@gmail.com)  
 
 ## Project Description and Overview
 
